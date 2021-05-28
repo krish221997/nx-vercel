@@ -37,7 +37,6 @@
         "serve": {
           "executor": "@nrwl/next:server",
           "options": {
-            "port": 4500,
             "buildTarget": "app1:build",
             "dev": true
           },
@@ -115,7 +114,6 @@
         "serve": {
           "executor": "@nrwl/next:server",
           "options": {
-            "port": 4501,
             "buildTarget": "app2:build",
             "dev": true
           },
@@ -193,7 +191,6 @@
         "serve": {
           "executor": "@nrwl/next:server",
           "options": {
-            "port": 4502,
             "buildTarget": "app3:build",
             "dev": true
           },
