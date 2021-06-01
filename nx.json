@@ -45,6 +45,9 @@
     },
     "components": {
       "tags": []
+    },
+    "node": {
+      "tags": []
     }
   }
 }
