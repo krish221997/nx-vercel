@@ -1,7 +1,7 @@
 import React from 'react';
 
 import styles from './index.module.css';
-
+ 
 import {Header} from '@monorepo/components'
 
 export function Index() {
